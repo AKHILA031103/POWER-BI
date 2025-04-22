@@ -58,4 +58,6 @@ The interactive elements (slicers, tooltips) enable users to explore data dynami
 
 ##OUTPUT
 
+![Image](https://github.com/user-attachments/assets/8e6b5aef-fd23-44bf-9fe3-dfef4a440aff)
+
 
