@@ -31,7 +31,7 @@ This Power BI dashboard simulates real-time data by using auto-refreshable visua
 This approach offers a realistic preview of real-time analytics without requiring complex API integration — ideal for prototyping, testing, or educational purposes.The visuals are structured in a way that, with regular data updates (either manual or scheduled), the dashboard can reflect real-time behavior.
 With clean and interactive visuals such as line charts, max value columns, and summary cards, the dashboard effectively communicates key sensor insights. This allows users to quickly interpret trends, compare sensor behaviors, and detect peak values without digging through raw data.
 ## OUTPUT:
-
+![Image](https://github.com/user-attachments/assets/7f8dcff7-16f1-410e-a51a-960c7479d767)
 
 
 
