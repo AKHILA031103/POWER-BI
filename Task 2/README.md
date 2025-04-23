@@ -52,3 +52,5 @@ In Sales Contribution & Publisher Revenue, A stacked column chart shows how diff
 Overall, this dashboard integrates both qualitative and quantitative data for a 360-degree view of the publishing landscape—ideal for strategic planning, marketing, and editorial decisions.
 
 # OUTPUT:
+![Image](https://github.com/user-attachments/assets/c60f47db-2758-4541-84c2-cb71afd55440)
+
