@@ -94,6 +94,7 @@ ggqqplot(dataset,"MSRP",conf.int.level=0.95,color="navy")
 The sales dashboard provides valuable insights into performance across cities, deal sizes, product lines, and customer behavior. From the boxplot, we see that North Sydney has higher variability in sales, while Melbourne maintains more consistent performance. Sales are strongest in the Classic Cars and Motorcycles product lines, particularly in the Medium and Small deal sizes. The histogram shows that most sales transactions fall below 5,000, indicating a concentration of lower-value deals. Quantity ordered varies by state and deal size, with NSW exhibiting higher activity across all deal sizes than Victoria. The Price Sensitivity Analysis scatter plot suggests no strong linear correlation between quantity ordered and price, indicating diverse customer preferences. Lastly, the Q-Q plot for MSRP shows data is reasonably normally distributed, confirming its suitability for predictive modeling.
 
 ## OUTPUT:
+![Image](https://github.com/user-attachments/assets/6e03eddd-0089-4e56-af7e-51b444f10842)
 
 
 
