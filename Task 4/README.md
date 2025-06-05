@@ -78,7 +78,7 @@ ggscatter(dataset,
           y="PRICEEACH",
           color="PRODUCTLINE",
           size="SALES",
-          alpha=0.3,
+          alpha=0.3
         )
 
 -> Q-Q Plot by MSRP:
